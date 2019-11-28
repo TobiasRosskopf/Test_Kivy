@@ -1,7 +1,27 @@
+#! python3.6
+# -*- coding: utf-8 -*-
+
+# File name:    kivy_calulator.py
+# Author:       Tobias Rosskopf
+# Email:        tobirosskopf@gmail.com
+# Created:      28.11.2019
+# Modified:     28.11.2019
+
+"""
+TODO: Module's docstring
+"""
+
+# Standard imports
+# ---
+
+# Third party imports
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.button import Button
 from kivy.uix.textinput import TextInput
+
+# Package imports
+# ---
 
 
 class MainApp(App):

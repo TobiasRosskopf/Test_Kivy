@@ -1,2 +1,2 @@
-# package_name.py
+# kivy_calculator
 Write README!
