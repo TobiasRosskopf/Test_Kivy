@@ -23,7 +23,7 @@ class TestKivyCalculator(unittest.TestCase):
 
     def test_eval(self):
         """TODO: Test's docstring"""
-        query = "134 * 5 / 7"
+        query = "34 * 5 / 7"
         solution = "24.285714285714285"
         self.assertEqual(str(eval(query)), solution)
 
